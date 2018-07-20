@@ -1,5 +1,5 @@
 # SnakeM
-## A extension of matlab toolbox, easy-to-use and including various subjects.
+## An extension of matlab toolbox, easy-to-use and including various subjects.
 
 ## Main subjects:
 coordinate system : coordinate transformation, projection;
